@@ -64,7 +64,7 @@ Become a **Cloud / DevOps Engineer** with strong practical skills.
 - 🛠 Solving real IT issues and documenting fixes in GitHub  
 - 🌐 Building my **portfolio website** soon  
 
-> No shortcuts. No fake senior talk.  
+> No shortcuts.  
 > Just consistent learning, building, breaking, and leveling up.
 
 ---
